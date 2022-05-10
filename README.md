@@ -4,7 +4,7 @@ Son kullanıcının uygulamaya girip soruları cevapladığı ve cevapları gön
 Mevcut HTML çalışan örnek uygulama için [tıklayın](https://www.mindset.com.tr/deneme)
 
 ## TASARIM
-- Zeplin uygulamasında tüm ekranların tasarımlarını görebilirsiniz. Davet için [tıklayın](https://zpl.io/Md7qPxJ)
+- Zeplin uygulamasında tüm ekranların tasarımlarını görebilirsiniz. Davet için [tıklayın](https://zpl.io/JEndpBx)
 - Bu uygulama için öncelik HTML ve CSS olarak tasarım birebir aynısının olması değil. Genel yapının benzemesi yeterli, daha çok ReactJs tarafı bizim için öncelikli. Ancak tasarımı birebir yapabilirseniz bu artı bir değer.
 
 ## İŞ AKIŞI
